@@ -4,20 +4,22 @@
 
 #top {
   width: 850px;
-  height: 200px;
-  text-align: center;
-  position: absolute;
+  height: 300px;
   background-color: hotpink;
+  margin: auto;
+}
+
+#golf {
+  float: right;
 }
 
 .image {
-  top: 200px;
-
-  position: absolute;
+  float: left;
 }
 
 #nav {
   text-align: right;
+  width: 850px;
 }
 
 .basket {
@@ -33,7 +35,7 @@
   left: 400px;
   text-align: left;
 }
-2 #column2 {
+#column2 {
   height: 200px;
   width: 512px;
   float: right;
